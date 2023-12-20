@@ -1,0 +1,7 @@
+*.xml
+*.png
+/runs
+*.th
+!16821_det.th
+*.pyc
+/data
